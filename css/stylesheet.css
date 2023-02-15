@@ -1,0 +1,17 @@
+#success-alert, #error-alert{
+    display: none;
+}
+
+#navbar li>a{
+    color:white;
+}
+
+.project-id{
+    display: none;
+}
+
+h3>a{
+    color: black;
+    text-decoration: none;
+}
+
